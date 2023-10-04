@@ -23,8 +23,6 @@
 ## Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sns-sakib&theme=merko" alt="sns-sakib"  /> 
 
-## Contribution Graph
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=sns-sakib&theme=github" alt="sns-sakib" /></p> 
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sns-sakib&layout=default)](https://github.com/sns-sakib/github-readme-stats)
