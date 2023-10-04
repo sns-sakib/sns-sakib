@@ -24,8 +24,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sns-sakib&theme=merko" alt="sns-sakib"  /> 
 
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sns-sakib&layout=default)](https://github.com/sns-sakib/github-readme-stats)
+
 
 ## Profile View
 ![Profile views](https://gpvc.arturio.dev/sns-sakib)
