@@ -2,14 +2,14 @@
 ### Hey 👋, I'm **[Syed Nazmus Sakib](https://www.linkedin.com/in/sns-sakib/)** 👨‍💻
 
 
-
+👨‍🎓 PhD student in Computer Science at the  **[University of Idaho](https://www.uidaho.edu/)** 
 👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Patuakhali Science and Technology University](pstu.ac.bd/)** 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-NazmusSakib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//sns-sakib/)](https://www.linkedin.com/in//sns-sakib/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-nazmusakib.01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nazmusakib.01@gmail.com)](mailto:nazmusakib.01@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ### About me :eyes:
-
+- Graduate Teaching Assistant | University of Idaho, USA
 - Associate AI Enginner | Next Solution Lab | Dhaka, Bagladesh
 - :dart: Research Interest | Artificial Intelligence | Machine learning | Deep learning | Image Processing and Computer vision | Natural Language Processing    
 - :e-mail: Ask me about anything ; **nazmusakib.01@gmail.com**
