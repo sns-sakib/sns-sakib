@@ -3,6 +3,7 @@
 
 
 👨‍🎓 PhD student in Computer Science at the  **[University of Idaho](https://www.uidaho.edu/)** 
+
 👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Patuakhali Science and Technology University](pstu.ac.bd/)** 
 
 
