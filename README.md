@@ -16,17 +16,6 @@
 - :e-mail: Ask me about anything ; **nazmusakib.01@gmail.com**
 
 
-
-
-## My Stats
-[![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sns-sakib&theme=merko)](https://github.com/sns-sakib/github-readme-stats&?theme=dark)
-
-## Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sns-sakib&theme=merko" alt="sns-sakib"  /> 
-
-
-
-
 ## Profile View
 ![Profile views](https://gpvc.arturio.dev/sns-sakib)
 
